@@ -3,6 +3,10 @@ body {
 	background-color: #E4E4D9;
 }
 
+.card {
+    width: 328px;
+}
+
 .image {
 	margin: .5px;
 	padding: .5px;
@@ -24,7 +28,6 @@ body {
 
 .animal	{
 	background-color: white;
-	margin: 300px;
 	box-shadow: 10px 5px 5px black;
 	box-shadow: #E4E4D9;
 	border-top-width: 10px;
